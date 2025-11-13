@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+pandas
+beautifulsoup4
+aiohttp
+lxml
+numpy
+scikit-learn
+python-dotenv
+
